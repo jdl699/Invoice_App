@@ -15,10 +15,11 @@ Methods
 printf
 
 Basic math
+Sample output
+<img width="1249" height="795" alt="image" src="https://github.com/user-attachments/assets/bc02aa00-1f48-42f2-982a-f81e610a8f4e" />
 
-Screenshot
 
 Author
 
 Your Name
-https://github.com/yourusername
+[https://github.com/yourusername](https://github.com/jdl699/Invoice_App/tree/master)
